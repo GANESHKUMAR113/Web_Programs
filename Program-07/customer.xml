@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="customer.xsl"?>
+<root>
+  <customers>
+    <customer>
+      <name>Ganesh</name>
+      <phone>8975014520</phone>
+      <age>55</age>
+      <city>Chennai</city>
+    </customer>
+    <customer>
+      <name>Sanjay</name>
+      <phone>8754216520</phone>
+      <age>53</age>
+      <city>Coimbatore</city>
+    </customer>
+    <customer>
+      <name>Ajith</name>
+      <phone>9568432542</phone>
+      <age>51</age>
+      <city>Madurai</city>
+    </customer>
+    <customer>
+      <name>Rajeshkumar</name>
+      <phone>7825942665</phone>
+      <age>43</age>
+      <city>Trichy</city>
+    </customer>
+    <customer>
+      <name>Yashreen</name>
+      <phone>9854524240</phone>
+      <age>38</age>
+      <city>Thirupur</city>
+    </customer>
+  </customers>
+</root>

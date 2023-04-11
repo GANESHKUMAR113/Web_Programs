@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+  <student>
+    <name>GaneshKumar C</name>
+    <age>21</age>
+    <dob>05/08/2002</dob>
+    <mobile>9585408797</mobile>
+    <address>Ramanathapuram,Tamil Nadu</address>
+  </student>
+  <student>
+    <name>Kavin P</name>
+    <age>22</age>
+    <dob>31/02/2000</dob>
+    <mobile>7550381058</mobile>
+    <address>Namakkal, Tamil Nadu</address>
+  </student>
+  <student>
+    <name>Vivek K.G</name>
+    <age>22</age>
+    <dob>02/05/2000</dob>
+    <mobile>6501298479</mobile>
+    <address>Kerala</address>
+  </student>
+  <student>
+    <name>Subash</name>
+    <age>21</age>
+    <dob>08/11/2001</dob>
+    <mobile>7094354552</mobile>
+    <address>Madurai, Tamil Nadu</address>
+  </student>
+
+</students>

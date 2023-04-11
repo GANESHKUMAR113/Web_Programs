@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Labrada', serif;
+}
+.header
+{
+    color:rgb(88, 8, 167);
+    padding: 10px;
+    width: 100%;
+    background: linear-gradient(90deg, rgb(181, 218, 88), rgb(244, 202, 174));
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.nav-links ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+    position: relative;  
+    align-items: left;
+} 
+.nav-links ul li a
+{
+        display: inline-block;
+        background: linear-gradient(180deg, rgb(223, 187, 27), rgb(248, 33, 33));
+        box-shadow: 0px 5px 5px black;
+        text-decoration: none;
+        color: azure;
+        font-size: 20px;
+        padding: 10px 10px;
+}
+.nav-links ul li a:hover
+{
+    border-radius: 20%;
+    box-shadow: 0 0 5px black;
+    background: linear-gradient(90deg, orange, brown);
+}  
+.sidebar
+{
+    float:left;
+    width: 250px;
+    background:linear-gradient(90deg, rgb(195, 240, 240), rgb(183, 181, 181));
+    height: 100vh;
+    padding: 10px;
+}
+
+.sidebar a
+{
+        display: inline-block;
+        text-decoration: none;
+        text-align: center;
+        width: 200px;
+        font-size: 30px;
+        font-weight: 600;
+        padding: 20px 30px;
+}
+
+.sidebar a:hover
+{
+        background: linear-gradient(90deg, rgb(237, 192, 108), brown);
+        border-radius: 20px;
+        box-shadow: 0 0 5px black;
+}
+
+.country
+{
+    height: 100vh;
+    background-color: rgb(195, 240, 240);
+}
+
+.country h2
+{
+    font-size: 32px;
+    color: rgb(175, 11, 74);
+    font-size: 600;
+}
+.country img
+{
+    height: 25%;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.country p
+{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    padding: 10px;
+    text-align: justify;
+}
